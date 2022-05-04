@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "989330301975",
+    "firebase_url": "https://prueba-v9-default-rtdb.firebaseio.com",
+    "project_id": "prueba-v9",
+    "storage_bucket": "prueba-v9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989330301975:android:3a9ed361ddfbca8c16e852",
+        "android_client_info": {
+          "package_name": "org.transitaseguro.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989330301975-7cbkr658hec4mk9mj4l7hq7tqvf07vc0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFGRmnUl2y5Ikx5QQz3fWFUG4thbzBi4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989330301975-7cbkr658hec4mk9mj4l7hq7tqvf07vc0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "transitaseguro-game",
+  "version": "0.0.1",
+  "description": "Transita Seguro Game",
+  "author": "Santi2411 <santi.gonzalez2411@gmail.com>",
+  "private": true,
+  "dependencies": {
+    "@capacitor/android": "^3.3.1",
+    "@capacitor/cli": "^3.3.1",
+    "@capacitor/core": "^3.3.1",
+    "@capacitor/push-notifications": "^1.0.7"
+  }
+}
